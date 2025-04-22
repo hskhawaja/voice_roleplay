@@ -5,7 +5,6 @@ scipy
 numpy
 python-dotenv
 elevenlabs
-pyaudio
 openai
 streamlit-webrtc
 pydub
