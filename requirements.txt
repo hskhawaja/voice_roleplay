@@ -1,0 +1,12 @@
+streamlit
+faster-whisper
+sounddevice
+scipy
+numpy
+python-dotenv
+elevenlabs
+pyaudio
+openai
+streamlit-webrtc
+pydub
+streamlit_autorefresh
